@@ -1,11 +1,11 @@
 # Tico Korhonen
 
 ## Myself
-Hello, my name is Tico Korhonen, and I'm currently studying computer science at Gradia Viitaniemi. I'm an avid learner of programming, and eager to learn as much as I possibly can about program development and computing. If I get a chance to learn something new or more of something that I already am quite familiar with, I will always look forward to it. Being able to create or be a part of something, has been my passion since I was little.
+Hello, my name is Tico Korhonen, and I'm currently studying computer science at Gradia Viitaniemi. I'm an avid learner of programming, and eager to learn as much as I possibly can about program development and computing. If I get a chance to learn something new or improve at something that I'm already quite familiar with, I will always look forward to it. Being able to create or be a part of something, has been my passion since I was little.
 
 
 ### Summary
-Computer Science student. Some experience with programming. Learning, and improving daily. Most comfortable with .NET development.
+Computer Science student. Some experience with programming. Learning and improving daily. Most comfortable with .NET development.
 
 ### Experience
 - Discord Chatbot project made with javascript, that answers questions regarding the job market. Gives the user tips, and possibly helps them to find a job suitable for their interests and skills.
